@@ -17,3 +17,21 @@ TJ - Lead Contract Developer
 Developers <br>
 Jonathan - 3D Modeling <br>
 Ryan - Web Developer <br>
+<br>
+<br>
+
+BSC Scan <br>
+https://bscscan.com/token/0x711a28e14134D0ffEAb350f8f8e297c475559e9b <br>
+<br>
+<br>
+
+PancakeSwap <br>
+https://pancakeswap.finance/swap <br>
+<br>
+<br>
+
+BEP-20 Token Contract <br>
+https://bscscan.com/address/0x711a28e14134D0ffEAb350f8f8e297c475559e9b#code
+<br>
+<br>
+
